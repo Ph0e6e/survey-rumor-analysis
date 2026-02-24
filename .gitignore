@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 若问卷数据含敏感信息，可取消下面注释以不提交到 GitHub
+# 问卷数据原始.csv
+# 问卷数据原始.xlsx
+# rumor_responses_summary.xlsx
+# survey_analysis_results.xlsx
+# processed_data/
